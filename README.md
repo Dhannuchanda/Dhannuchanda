@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Dhannu Chanda
 
-### IT Support Professional | Python Backend Developer | Cloud & DevOps Enthusiast
+### Python Backend Developer | Software Engineer | Cloud Computing Enthusiast
 
-I enjoy building software, troubleshooting technical problems, and exploring how applications and infrastructure work together. My interests span **backend development, IT infrastructure, networking, cloud computing, and automation**.
-
-Currently, I'm combining hands-on IT support experience with software development and cloud learning to build reliable, scalable, and maintainable solutions.
+I build practical software solutions with a focus on **clean code, scalable backends, real-time communication, and reliable systems**. I enjoy turning complex problems into simple, efficient applications and continuously exploring new technologies.
 
 <p align="center">
   <a href="https://github.com/Dhannuchanda">
@@ -19,63 +17,31 @@ Currently, I'm combining hands-on IT support experience with software developmen
 
 ## 🚀 About Me
 
-- 💼 **Currently working as:** IT Support Executive
-- 🔭 **Currently building:** Billing Software and web applications
-- 🌱 **Learning:** Cloud Computing, DevOps, deployment, and infrastructure automation
-- 🐍 **Backend development:** Python, FastAPI, REST APIs, and WebSockets
-- 🖥️ **IT infrastructure:** Windows troubleshooting, hardware support, user administration, and endpoint management
-- 🌐 **Networking:** LAN/WAN fundamentals, VLANs, firewalls, and network troubleshooting
-- ☁️ **Cloud interests:** AWS, Azure, virtualization, and cloud-hosted applications
-- 🤝 **Open to:** Backend development, IT infrastructure, cloud, DevOps, and open-source collaborations
-- ⚡ **Fun fact:** I enjoy connecting the dots between software, systems, and networks to solve real-world problems.
+- 🔭 **Currently building:** Billing Software
+- 🌱 **Currently learning:** Cloud Computing, deployment, and scalable application architecture
+- 💻 **Core interests:** Python Backend Development, APIs, WebSockets, and Distributed Systems
+- 🤝 **Open to:** Open-source contributions, technical collaborations, and exciting software projects
+- 💬 **Ask me about:** Python, FastAPI, REST APIs, WebSockets, and backend development
+- ⚡ **Fun fact:** I enjoy simplifying complex systems and turning chaos into clean code!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,ts,react,nodejs,cpp&perline=8" alt="Programming and backend technologies" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,ts,react,nodejs,cpp,postgres,mongodb,redis,docker,git,github,postman,linux,aws&perline=9" alt="Technology stack" />
 </p>
 
-- **Languages:** Python, JavaScript, TypeScript, C++
-- **Frameworks:** FastAPI, Django, React, Node.js
-- **Backend concepts:** REST APIs, WebSockets, authentication, application architecture
+### Technologies I Work With
 
-### Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase&perline=8" alt="Databases and storage technologies" />
-</p>
-
-- PostgreSQL, MongoDB, SQLite
-- Redis and Supabase
-- Database integration and application data management
-
-### Cloud, DevOps & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,linux,bash&perline=8" alt="Cloud and DevOps technologies" />
-</p>
-
-- **Cloud:** Learning cloud platforms, deployment, and cloud infrastructure
-- **Containers:** Docker fundamentals
-- **Version control:** Git and GitHub
-- **CI/CD:** GitHub Actions and continuous integration concepts
-- **Operating systems:** Windows and Linux fundamentals
-- **Scripting:** Python, Bash, and PowerShell fundamentals
-
-### IT Support & Infrastructure
-
-- 💻 Hardware diagnostics and laptop troubleshooting
-- 🪟 Windows operating system support and software installation
-- 👤 User accounts, permissions, and access troubleshooting
-- 🌐 LAN/WAN troubleshooting and VLAN fundamentals
-- 🔥 Firewall and endpoint security administration exposure
-- 🖨️ Printer, peripheral, and office IT support
-- 🛡️ Endpoint management and software compliance awareness
-- 🖥️ Virtualization using VirtualBox and VMware
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, C++ |
+| **Backend** | FastAPI, Django, Node.js, REST APIs, WebSockets |
+| **Frontend** | React |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, Postman |
+| **Cloud & Deployment** | Cloud Computing, Render, Vercel, AWS |
 
 ---
 
@@ -83,11 +49,11 @@ Currently, I'm combining hands-on IT support experience with software developmen
 
 ### 💬 Omegle Clone — Real-Time Chat Application
 
-A one-to-one chat application featuring random matching and private conversations.
+A real-time chat application designed for random and private one-to-one conversations.
 
-- ⚡ Real-time messaging using WebSockets
-- 🔄 Random user matching and private chat functionality
-- 🐍 Python backend powered by FastAPI
+- ⚡ Real-time communication using WebSockets
+- 🔐 Random matching and private chat functionality
+- 🐍 Backend powered by Python and FastAPI
 
 **Tech:** Python · FastAPI · WebSockets
 
@@ -95,11 +61,11 @@ A one-to-one chat application featuring random matching and private conversation
 
 ### 🌐 Personal Portfolio Website
 
-A personal website showcasing my projects, skills, and development journey.
+A personal portfolio showcasing my projects, skills, and developer journey.
 
 - 🎨 Responsive user interface
-- ⚛️ Built with React and Tailwind CSS
-- 📱 Designed for desktop and mobile experiences
+- ⚛️ Built using React and Tailwind CSS
+- 📱 Designed for a clean experience across devices
 
 **Tech:** React · Tailwind CSS · JavaScript
 
@@ -107,39 +73,20 @@ A personal website showcasing my projects, skills, and development journey.
 
 ### 🧾 Billing Software — In Progress
 
-Developing billing software to simplify everyday business billing workflows.
+Currently developing billing software focused on simplifying everyday billing workflows.
 
-- 🛠️ Focus on practical business requirements
-- 📊 Working toward maintainable application architecture
-- 🔧 Improving functionality through iterative development
+- 🛠️ Building practical business-oriented features
+- 📈 Focused on usability, maintainability, and reliability
 
-**Tech stack:** To be updated as development progresses.
-
----
-
-## ☁️ Cloud & DevOps Journey
-
-I'm expanding my knowledge from traditional IT support into cloud infrastructure and DevOps practices.
-
-My learning roadmap includes:
-
-- 🐧 Linux administration and command-line fundamentals
-- 🌐 Networking, DNS, HTTP/HTTPS, and troubleshooting
-- 🐳 Docker and containerization
-- 🔁 Git workflows and CI/CD pipelines
-- ☁️ AWS and Microsoft Azure fundamentals
-- 🏗️ Cloud deployment, monitoring, and infrastructure automation
-- 📈 Application reliability, logging, and incident troubleshooting
-
-**My goal:** Combine my IT support experience and backend development skills to help build, deploy, maintain, and troubleshoot production systems.
+*More details coming soon.*
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhannuchanda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhannuchanda&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhannuchanda&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dhannu's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhannuchanda&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 <p align="center">
@@ -148,7 +95,7 @@ My learning roadmap includes:
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dhannuchanda/Dhannuchanda/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
@@ -158,7 +105,7 @@ My learning roadmap includes:
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, IT professionals, cloud engineers, and teams building useful technology.
+I'm always happy to connect with developers, exchange ideas, and collaborate on meaningful projects.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhannuchanda/">
@@ -175,9 +122,9 @@ I'm interested in connecting with developers, IT professionals, cloud engineers,
 ---
 
 <p align="center">
-  <i>"Build it. Understand it. Automate it. Make it reliable."</i>
+  <i>"Great software isn't just about writing code—it's about solving problems that matter."</i>
 </p>
 
 <p align="center">
-  ⭐ If you find my work useful, consider starring a repository!
+  ⭐ If you find my projects interesting, consider starring a repository!
 </p>
